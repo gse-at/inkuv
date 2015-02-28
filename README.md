@@ -1,6 +1,7 @@
 # inkuv
 Integrierte Kurs-Verwaltung
 
+Planung:
 * Verwaltung der Kursmodule
 * Verwaltung von Fragen und Antworten pro Kursmodul (Modulkatalog)
   - mehr Fragen als für eine Prüfung benötigt werden
